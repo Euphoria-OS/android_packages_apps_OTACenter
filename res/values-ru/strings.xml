@@ -71,7 +71,7 @@
 
     <!-- About -->
     <string name="googleplus_title">Google+</string>
-    <string name="googleplus_summary">Посетить сообвество в Google+</string>
+    <string name="googleplus_summary">Посетить сообщество в Google+</string>
     <string name="xda_title">XDA</string>
     <string name="xda_summary">Посетить тему на XDA</string>
     <string name="about_title">О прошивке</string>
